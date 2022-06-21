@@ -806,10 +806,10 @@ BGRF_ID;Title;Author;Author1;Author2;Author3;Author4
 75.1;Les amours malheureux d’un Vendéen;;;;;
 75.10;Zabhet;;;;;
 75.11;Les confidences d’une jolie femme;ALBERT, mademoiselle d’;;;;
-75.13;Suite des Epreuves du sentiment par M. d’Arnaud, tome troisième, troisième anecdote, Lorezzo;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
-75.14;Suite des Epreuves du sentiment par M. d’Arnaud, tome troisième, quatrième anecdote, Liebman;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
-75.15;Suite des Epreuves du sentiment par M. d’Arnaud, tome troisième, cinquième anecdote, Rosalie;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
-75.16;Suite des Epreuves du sentiment par M. d’Arnaud, tome quatrième, première anecdote, Ermance;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
+75.13;Epreuves du sentiment, Lorezzo;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
+75.14;Epreuves du sentiment, Liebman;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
+75.15;Epreuves du sentiment, Rosalie;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
+75.16;Epreuves du sentiment, Ermance;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
 75.18;La fille philosophe;BÉDIGIS, François-Nicolas;;;;
 75.19;Les suites d’un moment d’erreur;BOISGIRON, madame de;;;;
 75.1bis;L’amour vainqueur du vice;;;;;
@@ -894,7 +894,7 @@ BGRF_ID;Title;Author;Author1;Author2;Author3;Author4
 77.57;Lettres de my-lord Rivers;RICCOBONI, Marie-Jeanne Laboras de Mézières, madame;;;;
 77.58;Premier et second voyages de mylord de ***;RUTLIDGE, James, dit Jean-Jacques Rutledge;;;;
 77.60;Mélanges de poésie et de prose ;VIDAMPIERRE, la comtesse de;;;;
-77.8;Nouvelles historiques par M. d’Arnaud, tome second;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
+77.8;Nouvelles historiques, tome second;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
 77.9;Epreuves du sentiment, Pauline et Suzette;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
 78.1;L’horloge parlante;;;;;
 78.11;La vertu chancelante;BAUGIN, Pierre-François-Cantien;MERCIER, Louis-Sébastien;MÉRARD DE SAINT-JUST, Simon-Pierre;ORMOY, Charlotte Chaumet, madame d’;ROSSEL, l’avocat
@@ -952,7 +952,7 @@ BGRF_ID;Title;Author;Author1;Author2;Author3;Author4
 79.6;Le vieillard abyssin;;;;;
 79.8;Epreuves du sentiment, Henriette et Chariot;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
 79.9;Epreuves du sentiment, Valmiers;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
-80.10;Suite des Nouvelles historiques par M. d’Arnaud, tonie second, deuxième nouvelle, La duchesse de Châtillon;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
+80.10;La duchesse de Châtillon;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
 80.11;L’Abailard supposé;BEAUHARNAIS, Fanny de;;;;
 80.14;Edelzinde;FRENAIS, Joseph-Pierre;;;;
 80.15;Lettre de Marion de Lorme;LA BORDE, Jean-Benjamin de;;;;
@@ -1032,7 +1032,7 @@ BGRF_ID;Title;Author;Author1;Author2;Author3;Author4
 83.12;Voyage de Spa à Bruxelles;;;;;
 83.14;Délassemens de l’homme sensible;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
 83.15;Les époux malheureux;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
-83.16;Nouvelles historiques par M. d’Arnaud, tome troisième;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
+83.16;Nouvelles historiques, tome troisième;ARNAUD, François-Thomas-Marie de Baculard d’;;;;
 83.17;La morale en action;BÉRENGER, Laurent-Pierre;GUIBAUD, le père Eustache;;;
 83.18;Fragment de Xénophon;BRIZARD, abbé Gabriel;;;;
 83.2;Le criminel sans le savoir;;;;;
